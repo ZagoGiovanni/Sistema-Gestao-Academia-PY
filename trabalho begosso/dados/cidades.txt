@@ -1,0 +1,5 @@
+1;São Paulo;SP
+2;Rio de Janeiro;RJ
+3;Belo Horizonte;MG
+4;Porto Alegre;RS
+5;Salvador;BA
